@@ -1,0 +1,22 @@
+{
+  "name": "practice-express",
+  "version": "1.0.0",
+  "description": "RestFul",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CarlosOV/practice-express.git"
+  },
+  "author": "Carlos Ormeño",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosOV/practice-express/issues"
+  },
+  "homepage": "https://github.com/CarlosOV/practice-express",
+  "dependencies": {
+    "express": "^4.13.1"
+  }
+}
